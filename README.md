@@ -2,7 +2,7 @@
 
 I have been working for 2 years in Manual Testing.
 
-At the moment, I want to study automated testing and am studying on the qa.guru course
+At the moment, I'm studying for AQA-testing on the qa.guru course
 <!--
 **Suburbanknight89/Suburbanknight89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
