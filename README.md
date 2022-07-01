@@ -1,8 +1,8 @@
 # Hi i'm Zaytsev Eugene :hand:
 
-I have been working for 2 years in Manual Testing.
+I have been working for 2.5 years in Manual Testing.
 
-At the moment, I'm studying for AQA-testing on the qa.guru course
+I have successfully passed quaguru java self-testing courses
 <!--
 **Suburbanknight89/Suburbanknight89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
