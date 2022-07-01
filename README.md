@@ -4,7 +4,7 @@ I have been working for 2.5 years in Manual Testing.
 
 Graduated from automation training in Java at QA.guru school.
 <!--
-### My Tech Stack
+### My Tech Stack 
 ![Intelij_IDEA](img/Intelij_IDEA.png)![Java](img/Java.png)![Selenide](img/Selenide.png)![Selenoid](img/Selenoid.png)![Gradle](img/Gradle.png)![JUnit5](img/JUnit5.png)![Allure Report](img/Allure_Report.png)![AllureTestOps](img/AllureTestOps.png)![Github](img/Github.png)![Jenkins](img/Jenkins.png)![Rest-Assured](img/Rest-Assured.png)![Telegram](img/Telegram.png)![Jira](img/Jira.png)
 
 
